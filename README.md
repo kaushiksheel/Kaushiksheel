@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm [Kaushik Sheel](https://Devil5614737.github.io) 👋    
+### Hi there, I'm [Kaushik Sheel](https://kaushiksheel.github.io) 👋    
 
 
-![](https://komarev.com/ghpvc/?username=Devil5614737&color=blue&style=float-right)
+![](https://komarev.com/ghpvc/?username=kaushiksheel&color=blue&style=float-right)
 
 
 I am a Frontend Developer and loves to  contributing to open source.
@@ -62,7 +62,7 @@ I am a Frontend Developer and loves to  contributing to open source.
 
 
 
-![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devil5614737&show_icons=true&theme=dracula)
+![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushiksheel&show_icons=true&theme=dracula)
 
 
 
@@ -70,4 +70,4 @@ I am a Frontend Developer and loves to  contributing to open source.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devil5614737&layout=compact)](https://github.com/Devil5614737/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiksheel&layout=compact)](https://github.com/Devil5614737/github-readme-stats)
