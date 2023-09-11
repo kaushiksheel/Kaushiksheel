@@ -62,7 +62,6 @@ I am a Frontend Developer and loves to  contributing to open source.
 
 
 
-![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushiksheel&show_icons=true&theme=dracula)
 
 
 
