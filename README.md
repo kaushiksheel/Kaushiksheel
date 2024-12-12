@@ -28,7 +28,7 @@ I am a Frontend Developer and loves to  contributing to open source.
 **I am open to**:
 
 - Any collobration work,
-- Web Dev Projects,
+- Full-Stack Projects,
 - Frontend Dev Jobs
 
 
