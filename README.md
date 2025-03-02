@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-  <h1>👋 Hey there, I'm <a href="https://kaushiksheel.github.io">Kaushik Sheel</a>!</h1>
+  <h1>👋 Hey there, I'm <a href="#!">Kaushik Sheel</a>!</h1>
   <p><em>Fullstack Developer | Open-Source Enthusiast | Problem Solver</em></p>
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="coding gif"/>
 </div>
@@ -23,7 +23,6 @@ I’m a passionate **Fullstack Developer** who loves building engaging, responsi
 - 👯 **Looking to collaborate on**: Open-source initiatives and innovative web apps.
 - 💬 **Ask me about**: Frontend frameworks, backend optimization, or anything tech-related!
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/kaushik-sheel/) | [Email](mailto:kaushiksheel9@gmail.com)
-- ⚡ **Fun fact**: I can solve a Rubik’s Cube in under 2 minutes!
 
 ---
 
@@ -39,6 +38,9 @@ I’m a passionate **Fullstack Developer** who loves building engaging, responsi
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Bootstrap-skyblue?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
