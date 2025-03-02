@@ -1,71 +1,71 @@
-
 <!--
-**kaushiksheel/Kaushiksheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**kaushiksheel/kaushiksheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there, I'm [Kaushik Sheel](https://kaushiksheel.github.io) 👋    
+<div align="center">
+  <h1>👋 Hey there, I'm <a href="https://kaushiksheel.github.io">Kaushik Sheel</a>!</h1>
+  <p><em>Fullstack Developer | Open-Source Enthusiast | Problem Solver</em></p>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="coding gif"/>
+</div>
 
+---
 
-![](https://komarev.com/ghpvc/?username=kaushiksheel&color=blue&style=float-right)
+### 🚀 About Me
 
+I’m a passionate **Fullstack Developer** who loves building engaging, responsive, and scalable web applications. From crafting pixel-perfect UIs to designing robust backend systems, I thrive on turning ideas into reality. I’m a big believer in open-source collaboration and enjoy contributing to projects that make an impact.
 
-I am a Frontend Developer and loves to  contributing to open source.
+---
 
+### 🌟 What I’m Up To
 
+- 🔭 **Currently working on**: Fullstack projects with React, Node.js, and MongoDB.
+- 🌱 **Currently learning**: Advanced TypeScript patterns and cloud architecture.
+- 👯 **Looking to collaborate on**: Open-source initiatives and innovative web apps.
+- 💬 **Ask me about**: Frontend frameworks, backend optimization, or anything tech-related!
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/kaushik-sheel/) | [Email](mailto:kaushiksheel9@gmail.com)
+- ⚡ **Fun fact**: I can solve a Rubik’s Cube in under 2 minutes!
 
-**I am open to**:
+---
 
-- Any collobration work,
-- Full-Stack Projects,
-- Frontend Dev Jobs
+### 🛠️ Skills & Tools
 
-
-
-
-
-## Skills:
-
-![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=orange&logoColor=white)&nbsp;
-![Css](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-violet?style=for-the-badge&logo=typescriptt&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node&logoColor=white)
-![MongoDb](https://img.shields.io/badge/MongoDb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-skyblue?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind&logoColor=white)
-
-
-## Connect with me:
-
-<p align = "center">
-
-
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/kaushik-sheel-691882157/)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-violet?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Bootstrap-skyblue?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 </p>
 
+---
 
+### 🌍 I’m Open To
 
+- Fullstack development projects
+- Frontend or backend-focused opportunities
+- Collaboration on open-source initiatives
+- Exciting job opportunities in web development
 
+---
 
+### 🤝 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaushik-sheel/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- Add more social links here if you have them (e.g., Twitter, Portfolio) -->
+</p>
 
+---
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiksheel&layout=compact)](https://github.com/Devil5614737/github-readme-stats)
+<div align="center">
+  <p>✨ "Code is like poetry—sometimes it rhymes, sometimes it doesn’t, but it always tells a story." ✨</p>
+</div>
