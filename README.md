@@ -5,7 +5,7 @@
 <div align="center">
   <h1>👋 Hey there, I'm <a href="#!">Kaushik Sheel</a>!</h1>
   <p><em>Fullstack Developer | Open-Source Enthusiast | Problem Solver</em></p>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="coding gif"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="200" alt="coding gif"/>
 </div>
 
 ---
@@ -43,9 +43,9 @@ I’m a passionate **Fullstack Developer** who loves building engaging, responsi
 
 ### 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/kaushik-sheel/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img width="60" height="60" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn"/>
   </a>
   <!-- Add more social links here if you have them (e.g., Twitter, Portfolio) -->
 </p>
