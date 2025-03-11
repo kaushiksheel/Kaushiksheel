@@ -41,17 +41,6 @@ I’m a passionate **Fullstack Developer** who loves building engaging, responsi
 
 ---
 
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kaushik-sheel/">
-    <img width="60" height="60" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn"/>
-  </a>
-  <!-- Add more social links here if you have them (e.g., Twitter, Portfolio) -->
-</p>
-
----
-
 <div align="center">
   <p>✨ "Code is like poetry—sometimes it rhymes, sometimes it doesn’t, but it always tells a story." ✨</p>
 </div>
