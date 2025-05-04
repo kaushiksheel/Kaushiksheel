@@ -28,7 +28,7 @@ I’m a passionate **Fullstack Developer** who loves building engaging, responsi
 
 ### 🛠️ Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,next,typescript,nodejs,mongodb,mysql,aws,docker,redis,firebase,bootstrap,tailwind,css,html,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,next,typescript,nodejs,mongodb,mysql,aws,jest,testing,docker,redis,firebase,bootstrap,tailwind,css,html,&perline=10)](https://skillicons.dev)
 
 ---
 
